@@ -3,9 +3,8 @@
 # Tarea de Grafos
 
 ## Integrantes:
-- 1 [Tu nombre completo aquí]
-- 2 [Nombre del integrante 2 - si aplica]
-- 3 [Nombre del integrante 3 - si aplica]
+- 1 Eliseo David Velasquez Diaz
+- 2 Jean Luka Terrazo Santiago
 
 ## Objetivo: 
 El objetivo de esta tarea es implementar un **Path Finder** para la ciudad de Lima. 
