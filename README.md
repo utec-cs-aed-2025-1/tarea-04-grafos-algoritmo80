@@ -189,6 +189,11 @@ Ver el archivo [ANALISIS_COMPLEJIDAD.md](ANALISIS_COMPLEJIDAD.md) para un análi
 - El camino final se destaca en color dorado con grosor aumentado
 - La heurística euclidiana es admisible y consistente para A*
 
+### Prueba de compilacion
+
+![compila](https://github.com/user-attachments/assets/ae94b5c4-d918-4954-ac4e-2180fcc29485)
+
+
 ----------
 > **Créditos:** Juan Diego Castro Padilla [juan.castro.p@utec.edu.pe](mailto:juan.castro.p@utec.edu.pe)
 
